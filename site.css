@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image:url('images/background/newerbg.jpg');
+    background-image:url('newerbg.jpg');
 }
 
 a{
@@ -163,7 +163,7 @@ input[type="submit"]:active{
 
 
 #lower_box{
-    background-image: url('images/background/bgimg\ \(4\).jpg');
+    background-image: url('bgimg\ \(4\).jpg');
     height: 150px;
     margin-top: 3px;
 }
