@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url('images/background/newerbg.jpg');
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+a:link{
+color: #fc3;
+}
+
+a:hover{
+    color:green;
+    background-color: 
+}
+
+a:active{
+    color: black;
+}
+
+nav{
+    text-align: center;
+    padding: 53px 0 30px 0px; 
+    background: #333;
+    margin-bottom: 3px;
+    height: 50px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+
+#container{
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    background: rgba(225,225,225,0.9);
+    padding: 20px;
+    margin: 20 0 0 0px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#mainColumn{
+padding:5px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#me{
+    float: right;
+    width:300px;
+    height:315px;
+    
+}
+
+a#link1:link{
+   
+    padding: 10px;
+}
+
+a#link1:hover{
+    
+    color: red;
+    text-decoration: underline;
+}
+
+a#link1:active{
+    background:#777;
+}
+
+input[type="text"],input[type="tel"],input[type="email"], textarea
+{
+padding: 10px;
+border-top: none;
+margin: 0 0 5px;
+border: solid 1px #454545;
+display: block;
+width: 50%;
+font-size: 14px;
+color:#777;
+font-family: Monaco, monospace;
+}
+
+fieldset{
+    padding: 35px;
+    border:solid 1px gray;
+    background: #333b50;
+}
+
+fieldset legend{
+
+    padding: 10px;
+    
+    color:white;
+}
+
+textarea{
+padding: 10px;
+border: solid 1px #454545;
+display: block;
+width: 50.1%;
+font-size: 14px;
+color:#777;
+font-family: Monaco, monospace;
+text-transform: uppercase;
+}
+
+textarea{
+    resize: none;
+}
+
+label{
+    font-size: 12px;
+    text-transform: uppercase;
+    display: block;
+    width:50.4%;
+    padding: 2%;
+    color:white;
+} 
+
+input[type="submit"]{
+    background: green; 
+    border:solid 1px #777 ;
+    height:40px; 
+    padding: 0 40px;
+    color:white;
+}
+   
+input[type="submit"]:hover{
+    cursor: pointer;
+    border-color: #444;
+    background: #fc3;
+
+}
+
+input[type="submit"]:active{
+    border-color:#111;
+    outline-color: red;
+}
+
+#form_container{
+    width: 600px;
+    margin: 0 auto;
+    background:
+    padding: 10px;
+    margin: 20 0 0 0px;
+}
+
+
+
+#lower_box{
+    background-image: url('images/background/bgimg\ \(4\).jpg');
+    height: 150px;
+    margin-top: 3px;
+}
+
+#footer{
+    background:#444;
+    text-align: center;
+    height:20px;
+    margin-top:3px;
+}
